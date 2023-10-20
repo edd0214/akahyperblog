@@ -36,6 +36,12 @@ body {
     font-size: 22px;
 }
 #post{
-    background: rgb(246, 225, 188);
     padding: 1em;
+}
+
+#footer{
+    background: burlywood;
+    color: aliceblue;
+    text-align: center;
+    padding: 0.5em;
 }
